@@ -10,6 +10,6 @@ The final product is a sleek and efficient web page that allows users to initiat
 
 # Use case
 
-I chose to map mine to a '.tel' domain as a hack on the word telephone. You could choose to use your own subdomain like 'call.example.com'.
-Use the link/domain across multiple locations and only need to update the one redirect.
-Extend it further by using geo tracking to redirect users to different geo numbers
+- I chose to map mine to a '.tel' domain as a hack on the word telephone. You could choose to use your own subdomain like 'call.example.com'.
+- Use the link/domain across multiple locations and only need to update the one redirect.
+- Extend it further by using geo tracking to redirect users to different geo numbers
