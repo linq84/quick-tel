@@ -46,6 +46,16 @@ body {
   text-align: center;
 }
 
+@media (max-width: 600px) {
+  body {
+    background-image: url("https://picsum.photos/1080/1920");
+  }
+
+  .bg-image {
+    background-image: url("https://picsum.photos/1080/1920");
+  }
+}
+
 .footer {
   padding: 2px;
   margin-top: 100px;
@@ -58,6 +68,8 @@ body {
   text-transform: uppercase;
   z-index: 200;
 }
+
+
 
 .footer a {
   color: #d0d0d0;
